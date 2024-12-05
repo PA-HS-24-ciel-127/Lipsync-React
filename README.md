@@ -8,7 +8,7 @@ The original github template can be found under this link: https://github.com/wa
 
 # Description
 This project integrates Three.js with React to render the 3D model of the Talky Walky avatar.
-The application also includes a small controll panel, where the user can choose between two audio scripts. After choosing a script, the checkbox 'playAudio' can be clicked to start the audio. 
+The application also includes a small control panel, where the user can choose between two audio scripts. After choosing a script, the checkbox 'playAudio' can be clicked to start the audio. 
 
 Furthermore, Talky Walky moves in different ways, depending on the chosen script.
 
@@ -20,7 +20,6 @@ Take this steps to run the webapplication:
 - Run `yarn dev` to start the development server
 
 Once the development server is running, you will see the 3D-Robot in your browser as follows:
-
 
 ![image](/public/images/lipsync_react.png)
 
